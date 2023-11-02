@@ -1,6 +1,6 @@
 # What is Homomorphic Encryption?
 
-![Homomorphic Encryption](images/homomorphic-encryption.png)
+![Homomorphic Encryption](https://images.spiceworks.com/wp-content/uploads/2022/07/06132112/Homomorphic-processing.png)
 
 Homomorphic encryption is an advanced cryptographic technique that allows you to perform computations on encrypted data without ever decrypting it. It's like a cryptographic wizardry that provides both data security and computational privacy. 🧙‍♂️✨
 
@@ -42,4 +42,4 @@ Homomorphic encryption is an exciting and technically profound field, with ongoi
 
 Learn more about the technical intricacies of this cryptographic magic in our repository's [Homomorphic Encryption](/Confidentiality/Encryption/Homomorphic_Encryption/README.md) section.
 
-Homomorphic encryption, the ultimate blend of security, privacy, and quantum resilience, is a critical tool for data privacy and security in today's digital world. 🌐🔒💻
+Homomorphic encryption, the ultimate blend of security, privacy, and quantum resilience, it is a tool that will be critical for data privacy and security in the future of the digital world. 🌐🔒💻
