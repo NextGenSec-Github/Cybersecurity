@@ -1,7 +1,7 @@
 
 # What is Homomorphic Encryption?
 
-![Homomorphic Encryption](images/homomorphic-encryption.png)
+![Homomorphic Encryption](https://images.spiceworks.com/wp-content/uploads/2022/07/06132112/Homomorphic-processing.png)
 
 Homomorphic encryption is like a magician's hat for your data, allowing you to perform computations on it while keeping the contents a secret. 🎩✨
 
