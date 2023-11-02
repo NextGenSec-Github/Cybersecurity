@@ -9,8 +9,6 @@ Homomorphic encryption is like a magician's hat for your data, allowing you to p
 
 Imagine you have a treasure chest full of secrets. With traditional encryption, you'd need to unlock the chest (decrypt the data) to see what's inside. But homomorphic encryption is different; it lets you perform operations on the chest while it's still locked! 🤯
 
-![Magic Trick](images/magic-trick.png)
-
 Here's how it works:
 
 1. **Encryption**: You lock your data in a magical chest with a secret key.
@@ -29,7 +27,6 @@ Here's how it works:
 
 While homomorphic encryption is incredibly powerful, it's not without its challenges. Performing computations on encrypted data can be slower and more complex than on plain text. However, as the field advances, these challenges are being addressed.
 
-![Challenges](images/challenges.png)
 
 Homomorphic encryption is a fascinating branch of cryptography, enabling privacy, security, and new ways of handling sensitive data without revealing its secrets. It's like magic for data scientists and privacy advocates alike. 🪄✨
 
